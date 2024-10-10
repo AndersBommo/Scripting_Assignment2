@@ -1,0 +1,8 @@
+2024-10-10 10:54:30.772348 - Sent to Alice: Good Morning, Alice!
+2024-10-10 10:54:35.657390 - Sent to Alice: Good Morning, Alice! Have a great day!
+2024-10-10 10:54:35.657390 - Sent to Bob: Good Morning, Bob! Have a great day!
+2024-10-10 11:20:34.034863 - Sent to Alice: Good Morning, Alice! Have a great day!
+2024-10-10 11:20:34.035863 - Sent to Bob: Good Morning, Bob! Have a great day!
+2024-10-10 11:21:41.935848 - Sent to Alice: Good Morning, Alice! Have a great day!
+2024-10-10 11:21:41.936849 - Sent to Bob: Good Morning, Bob! Have a great day!
+2024-10-10 11:21:41.939267 - Sent to Anders: Good Morning, Anders! Have a great day!

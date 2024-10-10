@@ -1,0 +1,6 @@
+#__init__.py
+from .contacts import Contacts
+from .message_generator import generate_message
+from .message_sender import send_message
+from .logger import log_message
+
