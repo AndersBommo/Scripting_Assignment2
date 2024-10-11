@@ -8,7 +8,7 @@ def main():
     # Create an instance of Contacts
     contact_manager = Contacts()
     
-    # Add some contacts
+    # Add some test contacts
     contact_manager.add_contact('Alice', 'alice@example.com', '18:27')
     contact_manager.add_contact('Bob', 'bob@example.com', "13:00 PM")
 

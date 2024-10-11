@@ -1,2 +1,3 @@
 [console_scripts]
 morning_greetings = morning_greetings.main:main
+
